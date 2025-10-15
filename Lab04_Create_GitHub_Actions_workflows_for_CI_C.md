@@ -1,7 +1,7 @@
 # Lab 04: Create GitHub Actions workflows for CI/CD of a full-stack project.
 
 ## Objective
-Describe the objective of this lab here.
+To create GitHub Actions workflows for CI/CD of a full-stack project.
 
 ## Tools / Technologies
 List the tools and technologies required (e.g., Git, GitHub, Docker, Jenkins).
